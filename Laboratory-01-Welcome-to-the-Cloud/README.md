@@ -34,3 +34,4 @@ Writing clear technical documentation in Markdown.
 Structuring a professional, version-controlled portfolio on GitHub.
 Following a checkpoint-based workflow similar to real-world cloud engineering onboarding.
 
+
