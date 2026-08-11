@@ -1,7 +1,7 @@
 # CCM101-jecaseria
 
 ## About Me
-Hi, I'm **Jehiel Caseria**, a 4th year student in the College of Information Technology at the University of Eastern Pangasinan, currently taking **CCM101 – Cloud Computing**.
+Hi, I'm **Jehiel Ezra Serapion Caseria**, a 4th year student in the College of Information Technology at the University of Eastern Pangasinan, currently taking **CCM101 – Cloud Computing**.
 
 ## About This Repository
 This repository serves as my **Cloud Computing Portfolio** for the CCM101 course. It contains all laboratory activities, documentation, scripts, screenshots, and reflections completed throughout the semester.
@@ -21,4 +21,4 @@ Throughout this course, I will be developing practical skills in:
 | 1 | Welcome to the Cloud | [Laboratory-01-Welcome-to-the-Cloud](./Laboratory-01-Welcome-to-the-Cloud) |
 
 ---
-*Maintained by Jehiel Caseria — CCM101, University of Eastern Pangasinan*
+*Maintained by Jehiel Ezra Serapion Caseria — CCM101, University of Eastern Pangasinan*
