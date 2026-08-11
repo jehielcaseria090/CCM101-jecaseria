@@ -36,3 +36,4 @@ tmpfs           5.0M     0  5.0M   0% /run/lock
 /dev/vda16      881M  117M  703M  15% /boot
 /dev/vda15      105M  6.2M   99M   6% /boot/efi
 tmpfs           191M  8.0K  191M   1% /run/user/1001
+
