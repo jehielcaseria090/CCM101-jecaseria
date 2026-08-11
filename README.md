@@ -21,4 +21,4 @@ Throughout this course, I will be developing practical skills in:
 | 1 | Welcome to the Cloud | [Laboratory-01-Welcome-to-the-Cloud](./Laboratory-01-Welcome-to-the-Cloud) |
 
 ---
-*Maintained by Jehiel Ezra Serapion Caseria — CCM101, University of Eastern Pangasinan*
+*Maintained by Jehiel Ezra Serapion Caseria —BSIT 4D CCM101, University of Eastern Pangasinan*
