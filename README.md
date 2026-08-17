@@ -19,7 +19,6 @@ Throughout this course, I will be developing practical skills in:
 | # | Activity | Link |
 |---|----------|------|
 | 1 | Welcome to the Cloud | [Laboratory-01-Welcome-to-the-Cloud](./Laboratory-01-Welcome-to-the-Cloud) |
-| 2 | Build the Cloud Infrastructure Blueprint | [Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint](./Laboratory-02-Build-the-Cloud-Infrastracture-Blueprint) |
 
 ---
 *Maintained by Jehiel Ezra Serapion Caseria —BSIT 4D CCM101, University of Eastern Pangasinan*
