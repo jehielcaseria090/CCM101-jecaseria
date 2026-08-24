@@ -1,7 +1,5 @@
 # Laboratory 03 – Multi-Cloud Explorer
 
-## Checkpoint 7 – Linux Investigation
-
 ### Linux Commands and Results
 
 Commands run in KillerCoda:
