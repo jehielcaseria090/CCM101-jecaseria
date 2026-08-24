@@ -25,3 +25,15 @@ GCP is the choice if you care about AI and Kubernetes. Google is the one that ma
 
 **4. Which cloud platform would you personally choose and why?**
 I would personally choose AWS because AWS has the services and so many companies use AWS. AWS also has a ton of guides which makes AWS easier to learn.
+
+
+
+## Service Matching Table
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | S3 | Blob Storage | Cloud Storage |
+| Identity Management | IAM | Azure AD (Entra ID) | Cloud IAM |
+| SQL Database | RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | EKS | AKS | GKE |
