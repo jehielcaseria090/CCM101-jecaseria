@@ -19,3 +19,16 @@
 **Recommended Platform:** AWS
 **Justification:** AWS has the largest global region/AZ footprint, minimizing latency worldwide. Its auto-scaling and load balancing are proven at massive scale — the same infrastructure Amazon itself runs on.
 **Services:** EC2 Auto Scaling, Elastic Load Balancing, Amazon CloudFront
+
+
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | Low-cost entry, free tier, easy scaling |
+| Enterprise Organization | AWS | Broadest, most mature service catalog |
+| Microsoft Environment | Azure | Native Windows/AD/M365 integration |
+| AI / Machine Learning | GCP | Leading AI tools, GPU/TPU support |
+| Kubernetes Deployment | GCP | Google created Kubernetes; GKE most mature |
+| Global Web Application | AWS | Largest global infrastructure footprint |
