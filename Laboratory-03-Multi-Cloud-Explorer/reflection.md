@@ -1,4 +1,3 @@
-# Checkpoint 8 – Mission Reflection
 
 ## Reflection
 
