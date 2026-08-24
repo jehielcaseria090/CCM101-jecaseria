@@ -20,7 +20,7 @@ Throughout this course, I will be developing practical skills in:
 |---|----------|------|
 | 1 | Welcome to the Cloud | [Laboratory-01-Welcome-to-the-Cloud](./Laboratory-01-Welcome-to-the-Cloud) |
 | 2 | Build the Cloud Infrastructure Blueprint | [Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint](./Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint) |
-| 3 | Become a Multi-Cloud Explorer | [Laboratory-03-Become-a-Multi-Cloud-Explorer](./Laboratory-03-Become-a-Multi-Cloud-Explorer) |
+| 3 | Become a Multi-Cloud Explorer | [Laboratory-03-Multi-Cloud-Explorer](./Laboratory-03-Multi-Cloud-Explorer) |
 
 ---
 *Maintained by Jehiel Ezra Serapion Caseria —BSIT 4D CCM101, University of Eastern Pangasinan*
