@@ -22,6 +22,7 @@ Throughout this course, I will be developing practical skills in:
 | 2 | Build the Cloud Infrastructure Blueprint | [Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint](./Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint) |
 | 3 | Become a Multi-Cloud Explorer | [Laboratory-03-Multi-Cloud-Explorer](./Laboratory-03-Multi-Cloud-Explorer) |
 | 4 | The Cloud Native Engineer | [Laboratory-04-Cloud-Native-Engineer](./Laboratory-04-Cloud-Native-Engineer) |
+| 5 | The Cloud Data Engineer | [Laboratory-05-Cloud-Data-Engineer](./Laboratory-05-Cloud-Data-Engineer) |
 
 ---
 *Maintained by Jehiel Ezra Serapion Caseria —BSIT 4D CCM101, University of Eastern Pangasinan*
