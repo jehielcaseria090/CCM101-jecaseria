@@ -30,5 +30,3 @@ docker-compose down
 
 ## Screenshots
 ![Deployment](screenshots/compose-deployment.png)
-![Nextcloud](screenshots/nextcloud-web.png)
-![Teardown](screenshots/compose-teardown.png)
