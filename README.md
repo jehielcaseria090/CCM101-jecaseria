@@ -24,6 +24,7 @@ Throughout this course, I will be developing practical skills in:
 | 4 | The Cloud Native Engineer | [Laboratory-04-Cloud-Native-Engineer](./Laboratory-04-Cloud-Native-Engineer) |
 | 5 | The Cloud Data Engineer | [Laboratory-05-Cloud-Data-Engineer](./Laboratory-05-Cloud-Data-Engineer) |
 | 6 | The  Cloud Deployment Engineer | [Laboratory-06-Cloud-Deployment-Engineer](./Laboratory-06-Cloud-Deployment-Engineer) |
+| 7 | The  Cloud Operations Engineer | [Laboratory-07-Cloud-Operations-Engineer](./Laboratory-06-Cloud-Operations-Engineer) |
 
 ---
 *Maintained by Jehiel Ezra Serapion Caseria —BSIT 4D CCM101, University of Eastern Pangasinan*
