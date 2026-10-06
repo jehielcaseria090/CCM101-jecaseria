@@ -36,16 +36,33 @@ CloudNova Technologies is preparing for a large marketing campaign, and the clie
 ## Screenshots
 
 ### Checkpoint 2: Host System Baseline
-- [Memory check](screenshots/memory-check.png)
-- [Disk check](screenshots/disk-check.png)
+
+**Memory check**
+
+![Memory check](screenshots/memory-check.png)
+
+**Disk check**
+
+![Disk check](screenshots/disk-check.png)
 
 ### Checkpoint 3: Deploy and Generate Traffic
-- [Nginx installation](screenshots/install-nginx.png)
-- [Simulation 1: successful requests](screenshots/simulation1.png)
-- [Simulation 2: 404 error](screenshots/simulation2.png)
+
+**Nginx installation**
+
+![Nginx installation](screenshots/install-nginx.png)
+
+**Simulation 1: successful requests**
+
+![Simulation 1](screenshots/simulation1.png)
+
+**Simulation 2: 404 error**
+
+![Simulation 2](screenshots/simulation2.png)
 
 ### Checkpoint 4: Application Logging
-- [Docker logs](screenshots/docker-logs.png)
+
+![Docker logs](screenshots/docker-logs.png)
 
 ### Checkpoint 5: Real-Time Container Metrics
-- [Container metrics](screenshots/container-metrics.png)
+
+![Container metrics](screenshots/container-metrics.png)
